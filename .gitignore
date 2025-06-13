@@ -1,0 +1,14 @@
+# executables
+a.out
+*.exe
+main
+tests
+
+#objects
+*.o
+
+#folders
+.vscode
+
+#images
+*.ppm
